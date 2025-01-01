@@ -1,0 +1,27 @@
+img {
+	width:350;
+	border:5px solid red
+}
+
+body {
+  font-family: "Helvetica", Sans-Serif;
+  background-color: #f2e6ff;
+ 
+}
+a {
+  color: #112d4e; 
+}
+
+h1, h2 {
+color: blue;
+background-color: yellow;
+width: 50%;
+margin-right: 25%;
+margin-left: 25%;
+
+
+}
+
+div {
+margin: 20px;
+}
